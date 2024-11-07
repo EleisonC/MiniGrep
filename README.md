@@ -13,3 +13,4 @@ Building a mini version of grep
 - Lifetimes, Borrowing
 - Vectors and Strings
 - Error handling
+- Standard Error and Standard Output
