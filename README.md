@@ -1,6 +1,6 @@
 # MiniGrep
 
-### Learning Objective: Working With I/O in rust
+### Learning Objective: Working With I/O
 
 Building a mini version of grep
 
